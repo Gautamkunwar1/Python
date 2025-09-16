@@ -1,1 +1,1 @@
-print(2*1000)
+tea_types[0]= "lemon" #TypeError: 'tuple' object does not support item assignment
